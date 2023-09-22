@@ -41,6 +41,13 @@ def main():
 
         print(score)
 
+        if score > 6:
+            print("You are hydrated, but keep going.")
+        elif score >= 3:
+            print("You have some hydration, but you need to take care about it more.")
+        else:
+            print("You have no hydration, you need to drink.")
+
     elif choice == "q":
         print("Goodbye, take care")
         # break
