@@ -12,6 +12,21 @@ def main():
 
             elif choice == "2":
                 print("Running the diagnosis")
+                question_1 = input(
+                    "Do you usually have a bottle of water	with you when you are outside? y/n"
+                )
+                question_2 = input("Do you drink bottled water at home? y/n")
+                question_3 = input("Do you frequently consume	bottled	water? y/n")
+                question_4 = input(
+                    "Do you consume any fluid before you feel thirsty? y/n"
+                )
+                question_5 = input("Do you feel full after drinking liquids? y/n")
+                question_6 = input(
+                    "Do you know what the recommended daily amount of water is for a healthy adult? y/n"
+                )
+                question_7 = input(
+                    "Do you drink at least 2 liters of water per day? y/n"
+                )
 
             elif choice == "q":
                 print("Goodbye, take care")
