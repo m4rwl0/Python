@@ -1,0 +1,64 @@
+Martyna
+
+1. Do you usually have a bottle of water	with you when you are outside? y/n
+y
+Perfect
+2. Do you drink bottled water at home? y/n
+y
+Perfect
+3. Do you frequently consume	bottled	water? y/n
+n
+Wrong answer
+4. Do you consume any fluid before you feel thirsty? y/n
+y
+Perfect
+5. Do you feel full after drinking liquids? y/n
+b
+Wrong answer
+6. Do you know what the recommended daily amount of water is for a healthy adult? y/n
+b
+Wrong answer
+7. Do you drink at least 2 liters of water per day? y/n
+u
+Wrong answer
+8. How many cups of fluid are recommended per day 
+: a) 8-10, b) 6-8, c) 4-6?
+a
+Perfect
+9. Do yo have any disease or health problems? y/n
+n
+Perfect
+You have some hydration, but you need to take care of it more.
+
+Mike
+
+1. Do you usually have a bottle of water	with you when you are outside? y/n
+y
+Perfect
+2. Do you drink bottled water at home? y/n
+y
+Perfect
+3. Do you frequently consume	bottled	water? y/n
+y
+Perfect
+4. Do you consume any fluid before you feel thirsty? y/n
+y
+Perfect
+5. Do you feel full after drinking liquids? y/n
+y
+Perfect
+6. Do you know what the recommended daily amount of water is for a healthy adult? y/n
+y
+Perfect
+7. Do you drink at least 2 liters of water per day? y/n
+y
+Perfect
+8. How many cups of fluid are recommended per day 
+: a) 8-10, b) 6-8, c) 4-6?
+a
+Perfect
+9. Do yo have any disease or health problems? y/n
+n
+Perfect
+You are hydrated, but keep going.
+
